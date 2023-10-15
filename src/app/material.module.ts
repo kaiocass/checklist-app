@@ -6,6 +6,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatListModule } from '@angular/material/list';
+import {MatDividerModule} from '@angular/material/divider';
 
 import { FormsModule } from '@angular/forms';
 
@@ -17,6 +18,7 @@ import { FormsModule } from '@angular/forms';
     MatSidenavModule,
     MatCheckboxModule,
     MatListModule,
+    MatDividerModule,
     FormsModule,
   ],
   exports: [
@@ -26,6 +28,7 @@ import { FormsModule } from '@angular/forms';
     MatSidenavModule,
     MatCheckboxModule,
     MatListModule,
+    MatDividerModule,
     FormsModule,
   ],
   providers: [],
