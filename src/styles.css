@@ -4,5 +4,10 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .w-10p { width: 10%; }
-
 .ml-15 { margin-left: 15px; }
+.ml-10 { margin-left: 10px; }
+.mr-15 { margin-right: 15px; }
+.mt-20 { margin-top: 20px; }
+.w-100 { width: 100%; }
+.m-20 { margin: 20px; }
+.j-end { justify-content: end; }
